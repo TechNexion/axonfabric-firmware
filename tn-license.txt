@@ -1,0 +1,108 @@
+TechNexion Firmware End User Sublicense Agreement
+
+This is a legal agreement (the "Agreement") concerning the use of TechNexion's
+Axon Fabric Firmware (the "Firmware") between you (the "User") and TechNexion
+Ltd. ("Licensor"). Use of the Firmware indicates User ís complete and
+unconditional acceptance of the terms and conditions set forth in this
+agreement
+
+GRANT OF LICENSE. Licensor or its authorized distributor grants to User,
+subject to payment, if applicable, of appropriate license fees, a
+nontransferable, nonexclusive license to use Firmware solely: (a) for User's
+internal business purposes; (b) on the computer hardware or at the User's
+address for which an applicable license fee is paid; (c) and, for use
+exclusively with Licensor's hardware product. Use of Firmware is limited;
+such limitations are technically implemented through the use of authorization
+codes or similar devices.
+
+THIRD PARTY CONTRACTOR USE RIGHTS. User may allow its third party contractors
+to use the Firmware on User's behalf. User shall ensure that such third party
+contractors comply with the terms of, and are bound by written agreements at
+least as restrictive as this Agreement, including without limitation, all
+confidentiality obligations set forth in this Agreement with respect to the use
+of the Firmware under this Agreement. User and User's third party contractors
+agree to comply with all applicable export and re-export restrictions set forth
+in any export licenses, and will otherwise comply with the U.S. Export
+Administration Regulations and similar laws and regulations as may be amended
+from time to time.
+
+TERM. This Agreement remains effective until expiration or termination. This
+Agreement will automatically terminate if User fails to comply with any term or
+condition of this Agreement.  If Firmware was provided for limited term use,
+this Agreement will automatically expire at the end of the authorized term.
+Upon any termination or expiration, User agrees to cease all use of Firmware.
+
+OWNERSHIP. Except as expressly set forth in this Agreement, all right, title
+and interest in the Firmware remain with Licensor or its licensors, and any
+proprietary information contained in the Firmware is protected by copyright,
+trademark and trade secret laws and international treaties.
+
+CONIFIDENTIALITY.  As used in this Agreement, "Confidential Information" means:
+(i) Firmware and all parts thereof in any form, and any related technology,
+idea, algorithm or information contained in the Firmware: and (ii) any
+information disclosed by Licensor to User relating to the Firmware designated
+as confidential at the time of disclosure or which would be considered
+confidential by a reasonable person. Notwithstanding the foregoing,
+"Confidential Information" shall not include information that: (a) is known and
+has been reduced to tangible form by User prior to the time of disclosure for
+the first time under this Agreement; or (b) is independently developed by User
+without the use of any of the Confidential Information. User will not use the
+Confidential Information for any purpose other than Userís internal business
+purposes. User will use commercially reasonable efforts to protect the
+Confidential Information from unauthorized disclosure. User may disclose the
+Confidential Information only to employees of User who have a need to know such
+Confidential Information in furtherance of Userís internal business purposes
+and who have entered into agreements with User containing confidentiality
+provisions at least as restrictive as those set forth in this Section with
+respect to the Confidential Information. User will not disclose any of the
+Confidential Information to any third party without the clear and express
+written consent of Licensor.
+
+NO WARRANTIES BY LICENSOR. The Firmware and all accompanying materials are
+provided "AS IS" without warranty of any kind. To the maximum extent permitted
+by law, Licensor hereby disclaims all warranties, express, implied and
+statutory, including but not limited to implied warranties of merchantability
+and fitness for a particular purpose (regardless of whether Licensor knows of
+such purpose) and against infringement. The entire risk arising out of the use
+or performance of the Firmware and any accompanying written materials remains
+with User.
+
+LIMITATION ON LIABILITY. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN
+NO EVENT SHALL LICENSOR, ITS LICENSORS OR ITS SUPPLIERS BE LIABLE FOR ANY
+DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS
+PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR OTHER
+PECUNIARY LOSS, OR FOR ANY SPECIAL, INDIRECT INCIDENTAL OR CONSEQUENTIAL
+DAMAGES) ARISING OUT OF THE USE OF OR INABILITY TO USE THE Firmware, EVEN IF
+LICENSOR OR ITS LICENSORS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+IN NO EVENT SHALL LICENSOR'S OR ITS LICENSORS' LIABILITY UNDER THIS AGREEMENT
+EXCEED THE AMOUNT PAID BY USER FOR THE Firmware GIVING RISE TO THE CLAIM. IN
+THE CASE WHERE NO AMOUNT WAS PAID. LICENSOR AND ITS LICENSORS SHALL HAVE NO
+LIABILITY FOR ANY DAMAGES WHATSOEVER.
+
+NONASSIGNABILITY. User may not assign or transfer this Agreement or any
+Firmware or all or any part of its rights under this Agreement by operation of
+law or otherwise, including without limitation to any purchaser of User's
+assets or securities.  Notwithstanding the foregoing, assignment shall be
+allowed in the case of change of control of User. Licensor may assign this
+Agreement. Any assignment attempted in contravention of this Section shall be
+null and void, and shall entitle Licensor to terminate this Agreement
+immediately upon written notice to User.
+
+GOVERNING LAW AND JURISDICTION. This Agreement shall be governed by the laws of
+the State of Alabama excluding its conflict of law principles. The courts
+located in or serving Madison County,  Alabama shall have exclusive
+jurisdiction and venue over any dispute arising out of or relating to this
+Agreement and User and Licensor hereby consent to such jurisdiction and venue.
+
+EXPORT REQUIREMENTS. The Firmware and all related technical information or
+materials may be subject to export controls under U.S. Government export
+regulations, and User shall comply with all such regulations.
+
+MISCELLANEOUS. If a court holds any provision of this Agreement to be illegal,
+invalid or unenforceable, the remaining provisions shall remain in full force
+and effect. This Agreement contains the parties' entire understanding and
+agreement concerning the subject matter of this Agreement and may only be
+modified by a written instrument signed by each party's duly authorized
+representative. Any waiver by either party of any default or breach under this
+Agreement shall not constitute a waiver of any provision of this Agreement or
+of any subsequent default or breach of the same or a different kind.
